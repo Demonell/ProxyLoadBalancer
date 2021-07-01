@@ -1,0 +1,56 @@
+﻿{
+  "Proxies": [
+    {
+      "IpAddress": "127.0.0.1",
+      "Port": 6482,
+      "ServerNodes": [
+        {
+          "IpAddress": "127.0.0.1",
+          "Port": 4830
+        },
+        {
+          "IpAddress": "127.0.0.1",
+          "Port": 4831
+        },
+        {
+          "IpAddress": "127.0.0.1",
+          "Port": 4832
+        },
+        {
+          "IpAddress": "127.0.0.1",
+          "Port": 4833
+        },
+        {
+          "IpAddress": "127.0.0.1",
+          "Port": 4834
+        }
+      ]
+    },
+    {
+      "IpAddress": "127.0.0.1",
+      "Port": 6483,
+      "ServerNodes": [
+        {
+          "IpAddress": "127.0.0.1",
+          "Port": 4835
+        },
+        {
+          "IpAddress": "127.0.0.1",
+          "Port": 4836
+        },
+        {
+          "IpAddress": "127.0.0.1",
+          "Port": 4837
+        },
+        {
+          "IpAddress": "127.0.0.1",
+          "Port": 4838
+        },
+        {
+          "IpAddress": "127.0.0.1",
+          "Port": 4839
+        }
+      ]
+    }
+  ]
+}
